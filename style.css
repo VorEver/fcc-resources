@@ -1,0 +1,102 @@
+/*:root {
+  --myDark: #302428;
+  --myDeep: #42393C;
+  --myMid: #59525C;
+  --myMain: #606570;
+  --myLight: #6B7285;
+  --myText: #BBC2D5;
+  --myAltText: #D5CEBA;
+}*/
+/* navbar stuff to make it pretty */
+.navbar-default {
+    background-color: #302428;
+    border-color: #302428;
+    border-radius: 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #BBC2D5;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #BBC2D5;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    background-color: #302428;
+    color: #D5CEBA;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: #D5CEBA;
+    background-color: #302428;
+}
+
+.navbar-default .navbar-text {
+    color: #BBC2D5;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #302428;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: #302428;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #BBC2D5;
+}
+
+.navbar-default {
+  background-color: #302428;
+  color: #BBC2D5;
+}
+/* end navbar stuff */
+
+body {
+  background-color: #42393C; 
+}
+
+.header {
+  border: 6px solid #BBC2D5;
+  border-radius: 15px;
+  font-size: 30px;
+  color: #BBC2D5;
+  background-color: #59525C;
+  margin: 50px auto 25px auto;
+  padding: 25px 100px;
+}
+
+.resource {
+  border: 6px solid #D5CEBA;
+  border-radius: 15px;
+  font-size: 25px;
+  color: #BBC2D5;
+  background-color: #606570;
+  margin: 30px auto 35px auto;
+  padding: 25px;
+}
+
+a, a:visited {
+  color: #D5CEBA;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D5CEBA;
+  font-weight: bold;
+  text-decoration: underline;
+}	
