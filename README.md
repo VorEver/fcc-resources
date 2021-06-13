@@ -2,13 +2,13 @@
 
 This is the README for the fcc-resources which is an HTML page.
 
-https://baseballpoetess.github.io/fcc-resources
+https://vorever.github.io/fcc-resources
 
 Good luck!
 
 # License
 
-Copyright (c) [2017] [J-Mag Guthrie]
+Copyright (c) [2017] [aj voraman]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
